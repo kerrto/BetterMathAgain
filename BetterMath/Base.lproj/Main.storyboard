@@ -251,7 +251,7 @@
                                 <rect key="frame" x="123" y="5" width="355" height="67"/>
                                 <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <accessibility key="accessibilityConfiguration" label="startLabel"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="55"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <state key="normal" title="GO!"/>
                                 <connections>
                                     <action selector="start:" destination="PUk-Rj-Ci6" eventType="touchUpInside" id="lcV-yU-r9T"/>
